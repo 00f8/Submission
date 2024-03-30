@@ -1,3 +1,5 @@
+-- https://www.roblox.com/games/16020632343/Geode-Farmers game link here mb!
+
 local sss = game:GetService("ServerScriptService")
 local GemModule = require(game.ServerScriptService:WaitForChild("Modules"):WaitForChild("GemModule"))
 
